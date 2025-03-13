@@ -31,7 +31,7 @@ Farmers & Miners Bank has **strong existing controls**, keeping risks **within t
 
 ##  **Project Files**  
 
--  **Risk_Assessment.pdf** – Full cybersecurity risk register  
+-  **Risk_Register.pdf** – Full cybersecurity risk register  
 
 ---
 
